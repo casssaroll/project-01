@@ -1,0 +1,83 @@
+body{
+    background-color: aquamarine;
+    background-image: url("../assets/images/star-10055_256.gif");
+}
+h1{
+    color: crimson;
+    text-align: center;
+    font-family: Bakora;
+    font-size: 10vw
+}
+h2{
+    text-align: center;
+    font-family: Bakora;
+    font-size: 9vw;
+    color: fuchsia;
+}
+.intro{
+    color: aqua;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1vw;
+}
+.row1{
+    text-align: center;
+    background: #3F5EFB;
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    display: block;
+}
+.row2{
+    text-align: center;
+    display: block;
+}
+img{
+    width: 400px;
+}
+.list{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: purple;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ol{
+    color: violet;
+    text-align: center;
+    margin-left: 260px;
+    margin-right: 260px;
+    border: 10px dashed yellow
+}
+.notes{
+    width: 1000px;
+    height: 400px;
+}
+.singing{
+    height: 200px;
+    width: 500px;
+}
+@font-face {
+    font-family: Bakora;
+    src: url("../assets/fonts/Bakora\ Handwriting.otf");
+}
+.lamb{
+    position: absolute;
+}
+.singing{
+    position: absolute;
+    right: 0px;
+    top: 1000px;
+}
+.iridocyclitis{
+    position: absolute;
+    right: 0px;
+}
+.apparently{
+    position: absolute;
+    right: 50px;
+    top: 700px;
+}
